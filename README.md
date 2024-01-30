@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md.Yusuf Shaikh</h1>
+<h1 align="center">Hello 👋, I'm Md.Yusuf Shaikh</h1>
 <h3 align="center">I'm Yusuf, a passionate beginner coder exploring the realms of HTML, CSS, and JavaScript. 🚀 Coding journey in progress, always excited to learn and build.🏏 When not coding, you'll find me on the cricket field.</h3>
 
 - 🔭 I’m currently working on **ChatBot-Q&A WebDev**
